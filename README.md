@@ -14,13 +14,10 @@ Currently I'm mostly playing with `Next.js`,`Typescript`  and `React`.
 
 🏀 I was addicted to playing street-ball, 🛹 loved to skate, was a competitive breakdancer, hobby freestyle rapper 🎙 and Bundesliga MTG player 🃟. I fought 10 years for the Horde 😈 (World of Warcraft). I am mostly playing with my kid at the moment (and loving it).
 
-## Fractional CTO
+## Automata
 
-I'm a serial entrepreneur and got over a decade of VC backed startup experience as founder and CTO (Zencargo - Series B, bonusbox - Series A).
-
-## CTO Coach
-
-I'm coaching CTOs 1 hour per week or fortnightly.
+I'm the Director of Software Engineering at Automata.
+We bring automation to every life science lab.
 
 ## Best way to reach me
 
