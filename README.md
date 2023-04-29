@@ -2,6 +2,8 @@
 
 ## Hi there 👋
 
+🤖 My name is Jan Riethmayer and I hail from the bustling metropolis of London. I'm the director of software engineering at Automata, where we're all about automating workflows for life scientists 🦾. We're basically like robot wizards, turning complex assays into smooth-running workflows and bringing synthetic food and drugs to market faster than you can say "magic”.
+
 🌍 I live in London 🇬🇧 since 2016 and grew up in Berlin-Kreuzberg 🇩🇪🇹🇷. My mom is from Serbia 🇷🇸, my dad is a Swabian🇩🇪. I speak more Turkish than Serbian, which actually doesn‘t mean much 😂.
 
 💍I am husband to a 🔬scientist and 🏋️‍♀️feminist (a.k.a. The Boss) and passionate about 🌈 Diversity, Equity and Inclusion (DEI). I turned father during a Series A and took 3 months paternity leave to lead by example, while relying on a world class team at Zencargo.
