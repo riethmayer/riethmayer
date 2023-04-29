@@ -16,11 +16,6 @@ Currently I'm mostly playing with `Next.js`,`Typescript`  and `React`.
 
 🏀 I was addicted to playing street-ball, 🛹 loved to skate, was a competitive breakdancer, hobby freestyle rapper 🎙 and Bundesliga MTG player 🃟. I fought 10 years for the Horde 😈 (World of Warcraft). I am mostly playing with my kid at the moment (and loving it).
 
-## Automata
-
-I'm the Director of Software Engineering at Automata.
-We bring automation to every life science lab.
-
 ## Best way to reach me
 
-Best way to reach me is on [LinkedIn](https://linkedin.com/in/riethmayer)
+Best way to reach me is on [LinkedIn](https://linkedin.com/in/riethmayer).
