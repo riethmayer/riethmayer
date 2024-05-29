@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-🤖 My name is Jan Riethmayer and I hail from the bustling metropolis of London. I'm the director of software engineering at Automata, where we're all about automating workflows for life scientists 🦾. We're basically like robot wizards, turning complex assays into smooth-running workflows and bringing synthetic food and drugs to market faster than you can say "magic”.
+🤖 My name is Jan Riethmayer and I hail from the bustling metropolis of London. I'm a father of two amazing daughters and am looking for my next big opportunity.
 
 🌍 I live in London 🇬🇧 since 2016 and grew up in Berlin-Kreuzberg 🇩🇪🇹🇷. My mom is from Serbia 🇷🇸, my dad is a Swabian🇩🇪. I speak more Turkish than Serbian, which actually doesn‘t mean much 😂.
 
@@ -10,11 +10,11 @@
 
 💾 I love product and tech (polyglot programmer).
 If I had a tattoo, it would be a Ruby-tattoo (my first intimate and loving relationship with programming).
-Currently I'm mostly playing with `Next.js`,`Typescript`  and `React`.
+Currently I'm mostly playing with `Python`, `Firebase`, `Typescript`  and `React`, but I also love `Go`, `Elixir` and `R`.
 
 📚I love reading with a 90:5:5 ratio of non-fiction to fiction (sci-fi, fantasy, history) and you need to tell me if I annoy you with book recommendations. Check out my [GoodReads](https://www.goodreads.com/user/show/72601141-jan-riethmayer)
 
-🏀 I was addicted to playing street-ball, 🛹 loved to skate, was a competitive breakdancer, hobby freestyle rapper 🎙 and Bundesliga MTG player 🃟. I fought 10 years for the Horde 😈 (World of Warcraft). I am mostly playing with my kid at the moment (and loving it).
+🏀 I was addicted to playing street-ball, 🛹 loved to skate, was a competitive breakdancer, hobby freestyle rapper 🎙 and Bundesliga MTG player 🃟. I fought 10 years for the Horde 😈 (World of Warcraft). I am mostly playing with my kids at the moment (and loving it).
 
 ## Best way to reach me
 
